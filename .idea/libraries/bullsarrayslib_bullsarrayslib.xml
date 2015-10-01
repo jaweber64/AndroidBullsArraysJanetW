@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bullsarrayslib.bullsarrayslib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bullsarrayslib/build/libs/bullsarrayslib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
